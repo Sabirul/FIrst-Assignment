@@ -65,7 +65,10 @@ p{
     display: flex;
 }
 .Image-Decoration{
-    width: 40%;
+    width: 100%;
+    border-radius: 5%;
+    
+    
 }
 .Recipies{
     text-align: center;
@@ -73,4 +76,13 @@ p{
     padding: 0 350px 0 350px;
     margin-bottom: 40px;
 
+}
+.Recipies-Decoratiopn{
+    border:  15px solid white ;
+    font-weight: 700;
+    border-radius: 5%;
+    margin: 10px 40px 10px 70px;
+    width: 23%;
+    box-shadow: 10px 7px 7px 10px gray;
+   
 }
