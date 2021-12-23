@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-top: 50px;
+    margin: 50px 0 0 0 ;
 }
 .Orange{
     color: orange;
@@ -86,3 +86,29 @@ p{
     box-shadow: 10px 7px 7px 10px gray;
    
 }
+.Fourth{
+    display: flex;
+    height: 120px;
+    width: 1180px;
+    box-shadow: 10px 10px 10px 10px grey;
+    margin: 140px 30px 40px 75px;
+    border-radius: 10%;
+}
+.Position-Text{
+    margin: 10px 40px 10px 70px;
+}
+
+.Fifth{
+        height: 180px;
+        width: 100%;
+        background-color: black;
+        margin-top: 100px;
+        
+
+}
+.Text{
+        text-align: center;
+        margin-top: 50px;
+        color: grey;
+}
+
