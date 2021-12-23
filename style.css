@@ -80,7 +80,7 @@ p{
 .Recipies-Decoratiopn{
     border:  15px solid white ;
     font-weight: 700;
-    border-radius: 5%;
+    border-radius: 25px;
     margin: 10px 40px 10px 70px;
     width: 23%;
     box-shadow: 10px 7px 7px 10px gray;
@@ -92,10 +92,13 @@ p{
     width: 1180px;
     box-shadow: 10px 10px 10px 10px grey;
     margin: 140px 30px 40px 75px;
-    border-radius: 10%;
+    border-radius: 15px;
 }
 .Position-Text{
-    margin: 10px 40px 10px 70px;
+    margin: 30px 40px 10px 150px;
+    font-weight: 700;
+    line-height: 5px;
+    
 }
 
 .Fifth{
@@ -108,7 +111,7 @@ p{
 }
 .Text{
         text-align: center;
-        margin-top: 50px;
+        margin: 50px 0px 0px 0px;
         color: grey;
 }
 
